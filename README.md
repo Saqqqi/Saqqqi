@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saqlain</h1>
-<h3 align="center">A passionate MEAN and Nextjs-13 developer from Paksitan</h3>
+<h3 align="center">A passionate MEAN and Nextjs-13 developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **NextJs-13 and AngularJs**
 
