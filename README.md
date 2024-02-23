@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saqlain</h1>
 <h3 align="center">A passionate MEAN and Nextjs-13 developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **NextJs-13 and AngularJs**
+- 🔭 I’m currently working on **NextJs-13 and AngularJs and Strapi(CMS)**
 
-- 🌱 I’m currently learning **NextJs And ReactJs**
+- 🌱 I’m currently learning **NextJs And ReactJs and Strapi(CMS)**
 
-- 👯 I’m looking to collaborate on **NextJs-13 and AngularJs**
+- 👯 I’m looking to collaborate on **NextJs-13 and AngularJs and Strapi(CMS)**
 
-- 🤝 I’m looking for help with **NextJs-13 and AngularJs**
+- 🤝 I’m looking for help with **NextJs-13 and AngularJs and Strapi(CMS)**
 
-- 💬 Ask me about **Angular , Nextjs , SASS , Pug , React**
+- 💬 Ask me about **Angular , Nextjs , SASS , Pug , React ,Strapi(CMS)**
 
 - 📫 How to reach me **saqlain-zepto@outlook.com**
 
