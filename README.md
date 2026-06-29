@@ -23,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-891f-46b5-b7a2-041bd0516051.gif" width="200" align="right"/>
 </p>
 
-> Full Stack Developer** with expertise in building modern web applications. Passionate about creating efficient, scalable solutions and delivering exceptional user experiences. Skilled in both frontend and backend technologies with a focus on clean code and best practices.
+> **Full Stack Developer** with expertise in building modern web applications. Passionate about creating efficient, scalable solutions and delivering exceptional user experiences. Skilled in both frontend and backend technologies with a focus on clean code and best practices.
 
 ### 🎯 **What I Do**
 - Build responsive web applications with modern frameworks
