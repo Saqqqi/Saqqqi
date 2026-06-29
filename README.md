@@ -23,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-891f-46b5-b7a2-041bd0516051.gif" width="200" align="right"/>
 </p>
 
-> **3+ Years Full Stack Developer** with expertise in building modern web applications. Passionate about creating efficient, scalable solutions and delivering exceptional user experiences. Skilled in both frontend and backend technologies with a focus on clean code and best practices.
+> Full Stack Developer** with expertise in building modern web applications. Passionate about creating efficient, scalable solutions and delivering exceptional user experiences. Skilled in both frontend and backend technologies with a focus on clean code and best practices.
 
 ### 🎯 **What I Do**
 - Build responsive web applications with modern frameworks
@@ -66,7 +66,7 @@
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **WORK EXPERIENCE**
 
 ### <img src="https://media.giphy.com/media/QvmUJ8GeWDh6YgBUPu/giphy.gif" width="25"> **Zepto System Limited**
-**Full Stack Developer** | *2023 - Present*
+**Full Stack Developer** | *2024 - 2025*
 
 - Developed scalable web applications using modern JavaScript frameworks
 - Implemented RESTful APIs and integrated with various databases
@@ -74,7 +74,7 @@
 - Optimized application performance and implemented best practices
 
 ### <img src="https://media.giphy.com/media/QvmUJ8GeWDh6YgBUPu/giphy.gif" width="25"> **Global Digital Solutions**
-**Full Stack Developer** | *2024 - Present*
+**Full Stack Developer** | *2025 - Present*
 
 - Built web portals and tools using PHP, Tailwind CSS, and MySQL
 - Deployed and managed websites on shared hosting and VPS servers
