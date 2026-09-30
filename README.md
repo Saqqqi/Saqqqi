@@ -1,17 +1,60 @@
-<!--
-  HOW TO USE
-  In your profile README.md, delete the old sections listed below and paste these in their place.
+<div align="center">
 
-  PART 1 replaces:  "💼 Experience"  and  "🚀 Featured Project"
-  PART 2 replaces:  "📊 GitHub Analytics"  and  "🎯 Principles"
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:115e59,100:0d9488&height=260&section=header&text=Muhammad%20Saqlain&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20PHP%20%C2%B7%20JavaScript%20%C2%B7%20MySQL&descSize=18&descAlignY=62&descColor=e2e8f0" width="100%" alt="Muhammad Saqlain"/>
 
-  Everything else in the README stays exactly as it is.
-  Note: do not add blank lines inside the HTML tables, GitHub will break the layout.
--->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&height=30&lines=Building+secure%2C+scalable+web+applications;3%2B+years+of+full+stack+experience;Clean+code.+Solid+architecture.+Great+UX." alt="Typing animation"/>
 
-<!-- ==================================================== -->
-<!-- PART 1: EXPERIENCE + FEATURED PROJECT                 -->
-<!-- ==================================================== -->
+<p>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-0d9488?style=flat-square&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0d9488?style=flat-square&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-22c55e?style=flat-square&labelColor=0f172a"/>
+<img src="https://komarev.com/ghpvc/?username=saqqqi&label=Profile%20Views&color=0d9488&style=flat-square&labelColor=0f172a"/>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/muhammad-saqlain-4a9b7123a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Muhammad.saqlain0772@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/saqlainsqqi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/saqlain._.saqqi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+<h3>👨‍💻 About Me</h3>
+<p>Full Stack Developer with <b>3+ years of experience</b> building modern web applications. I turn complex business requirements into clean, secure and maintainable code, with interfaces that are fast and easy to use. I work across the whole stack, from database design and REST APIs to responsive frontends and deployment.</p>
+<p>🔭 <b>Working on:</b> role-based web portals with PHP, Tailwind CSS and MySQL<br/>
+🌱 <b>Learning:</b> Next.js, advanced React, system design and DevOps<br/>
+💬 <b>Ask me about:</b> PHP, JavaScript, MySQL, REST APIs, web scraping, deployment</p>
+</td>
+<td width="38%" valign="top" align="center">
+<h3>⚡ Quick Facts</h3>
+<img src="https://img.shields.io/badge/3%2B-Years%20Experience-0d9488?style=for-the-badge&labelColor=0f172a"/><br/>
+<img src="https://img.shields.io/badge/Full%20Stack-Frontend%20%2B%20Backend-0d9488?style=for-the-badge&labelColor=0f172a"/><br/>
+<img src="https://img.shields.io/badge/Focus-Security%20%26%20Clean%20Code-0d9488?style=for-the-badge&labelColor=0f172a"/><br/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collab-22c55e?style=for-the-badge&labelColor=0f172a"/>
+</td>
+</tr>
+</table>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table width="100%">
+<tr>
+<th width="34%" align="center">Frontend</th>
+<th width="33%" align="center">Backend &amp; Databases</th>
+<th width="33%" align="center">Tools &amp; Deployment</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,bootstrap,tailwind,jquery,webpack,materialui&perline=6" alt="Frontend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgresql,mongodb,sqlite,firebase,graphql&perline=5" alt="Backend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,nginx,heroku,vercel,netlify&perline=5" alt="Tools"/></td>
+</tr>
+</table>
 
 <h2 align="center">💼 Experience</h2>
 
@@ -94,11 +137,6 @@
 </tr>
 </table>
 
-
-<!-- ==================================================== -->
-<!-- PART 2: GITHUB ANALYTICS + PRINCIPLES                 -->
-<!-- ==================================================== -->
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -129,3 +167,13 @@
 <td width="25%" align="center" valign="top"><h1>🤝</h1><b>Teamwork</b><br/><sub>Clear communication and knowledge sharing</sub></td>
 </tr>
 </table>
+
+<h2 align="center">📬 Let's Work Together</h2>
+
+<div align="center">
+<p>Need help with a project or a related repository? Want to collaborate? I'd love to hear from you.</p>
+<a href="mailto:Muhammad.saqlain0772@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Muhammad.saqlain0772@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-saqlain-4a9b7123a/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:115e59,100:0f172a&height=110&section=footer" width="100%" alt="footer"/>
