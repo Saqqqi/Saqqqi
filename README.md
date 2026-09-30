@@ -1,149 +1,143 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0d9488&height=200&section=header&text=Muhammad%20Saqlain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Muhammad Saqlain - Full Stack Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:115e59,100:0d9488&height=260&section=header&text=Muhammad%20Saqlain&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20PHP%20%C2%B7%20JavaScript%20%C2%B7%20MySQL&descSize=18&descAlignY=62&descColor=e2e8f0" width="100%" alt="Muhammad Saqlain"/>
 
-<a href="https://github.com/saqqqi">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;PHP+%7C+JavaScript+%7C+React+%7C+MySQL;Clean+code.+Secure+systems.+Great+UX." alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=640&height=30&lines=Building+secure%2C+scalable+web+applications;3%2B+years+of+full+stack+experience;Clean+code.+Solid+architecture.+Great+UX." alt="Typing animation"/>
 
-<br/>
+<p>
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-0d9488?style=flat-square&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0d9488?style=flat-square&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-22c55e?style=flat-square&labelColor=0f172a"/>
+<img src="https://komarev.com/ghpvc/?username=saqqqi&label=Profile%20Views&color=0d9488&style=flat-square&labelColor=0f172a"/>
+</p>
 
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-0d9488?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-0f172a?style=for-the-badge)
-![Status](https://img.shields.io/badge/Open%20to-Collaboration-2563eb?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=saqqqi&label=Profile%20Views&color=0d9488&style=for-the-badge)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saqlain-4a9b7123a/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Muhammad.saqlain0772@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/saqlainsqqi)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/saqlain._.saqqi/)
+<p>
+<a href="https://www.linkedin.com/in/muhammad-saqlain-4a9b7123a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Muhammad.saqlain0772@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/saqlainsqqi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/saqlain._.saqqi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
-
-I'm a **Full Stack Developer with 3+ years of experience** building modern, secure and scalable web applications. I enjoy turning complex business requirements into clean, maintainable code and interfaces that are easy to use.
-
-| | |
-|---|---|
-| 🔭 **Currently working on** | Web portals and role-based systems with PHP, Tailwind CSS and MySQL |
-| 🌱 **Currently learning** | Next.js, advanced React, system design and DevOps |
-| 🤝 **Open to** | Collaboration, freelance projects and open-source contributions |
-| 💬 **Ask me about** | PHP, JavaScript, MySQL, REST APIs, web scraping, deployment |
-| 📫 **Reach me at** | [Muhammad.saqlain0772@gmail.com](mailto:Muhammad.saqlain0772@gmail.com) |
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,bootstrap,tailwind,jquery,webpack,materialui" alt="Frontend skills" />
-</p>
-
-**Backend and Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgresql,mongodb,sqlite,firebase,graphql" alt="Backend skills" />
-</p>
-
-**Tools and Deployment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,nginx,heroku,vercel,netlify" alt="Tools" />
-</p>
-
----
-
-## 💼 Experience
-
-<table>
+<table width="100%">
 <tr>
-<td width="180"><b>2025 - Present</b></td>
-<td>
-<b>Full Stack Developer</b> · Global Digital Solutions<br/>
+<td width="62%" valign="top">
+<h3>👨‍💻 About Me</h3>
+<p>Full Stack Developer with <b>3+ years of experience</b> building modern web applications. I turn complex business requirements into clean, secure and maintainable code, with interfaces that are fast and easy to use. I work across the whole stack, from database design and REST APIs to responsive frontends and deployment.</p>
+<p>🔭 <b>Working on:</b> role-based web portals with PHP, Tailwind CSS and MySQL<br/>
+🌱 <b>Learning:</b> Next.js, advanced React, system design and DevOps<br/>
+💬 <b>Ask me about:</b> PHP, JavaScript, MySQL, REST APIs, web scraping, deployment</p>
+</td>
+<td width="38%" valign="top" align="center">
+<h3>⚡ Quick Facts</h3>
+<img src="https://img.shields.io/badge/3%2B-Years%20Experience-0d9488?style=for-the-badge&labelColor=0f172a"/><br/>
+<img src="https://img.shields.io/badge/Full%20Stack-Frontend%20%2B%20Backend-0d9488?style=for-the-badge&labelColor=0f172a"/><br/>
+<img src="https://img.shields.io/badge/Focus-Security%20%26%20Clean%20Code-0d9488?style=for-the-badge&labelColor=0f172a"/><br/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collab-22c55e?style=for-the-badge&labelColor=0f172a"/>
+</td>
+</tr>
+</table>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table width="100%">
+<tr>
+<th width="34%" align="center">Frontend</th>
+<th width="33%" align="center">Backend &amp; Databases</th>
+<th width="33%" align="center">Tools &amp; Deployment</th>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,bootstrap,tailwind,jquery,webpack,materialui&perline=6" alt="Frontend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgresql,mongodb,sqlite,firebase,graphql&perline=5" alt="Backend"/></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker,nginx,heroku,vercel,netlify&perline=5" alt="Tools"/></td>
+</tr>
+</table>
+
+<h2 align="center">💼 Experience</h2>
+
+<table width="100%">
+<tr>
+<td width="20%" valign="top" align="center"><b>2025 - Present</b><br/><sub>Full Stack Developer</sub></td>
+<td width="80%" valign="top">
+<b>Global Digital Solutions</b><br/>
 <sub>
-• Build web portals and tools using PHP, Tailwind CSS and MySQL<br/>
-• Deploy and manage websites on shared hosting and VPS servers<br/>
-• Integrate payment gateways and automate email workflows<br/>
-• Create web scrapers that collect data and store it in SQL databases
+▸ Build web portals and tools using <b>PHP, Tailwind CSS and MySQL</b><br/>
+▸ Deploy and manage websites on shared hosting and VPS servers<br/>
+▸ Integrate payment gateways and automate email workflows<br/>
+▸ Create web scrapers that collect data and store it in SQL databases
 </sub>
 </td>
 </tr>
 <tr>
-<td width="180"><b>2024 - 2025</b></td>
-<td>
-<b>Full Stack Developer</b> · Zepto System Limited<br/>
+<td width="20%" valign="top" align="center"><b>2024 - 2025</b><br/><sub>Full Stack Developer</sub></td>
+<td width="80%" valign="top">
+<b>Zepto System Limited</b><br/>
 <sub>
-• Developed scalable web applications with modern JavaScript frameworks<br/>
-• Implemented RESTful APIs and integrated them with databases<br/>
-• Worked with design teams to deliver responsive UI/UX<br/>
-• Optimized application performance and applied best practices
+▸ Developed scalable web applications with modern JavaScript frameworks<br/>
+▸ Implemented RESTful APIs and integrated them with databases<br/>
+▸ Worked with design teams to deliver responsive UI/UX<br/>
+▸ Optimized application performance and applied best practices
 </sub>
 </td>
 </tr>
 </table>
 
----
+<h2 align="center">🚀 Featured Project</h2>
 
-## 🚀 Featured Project
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+<h3>🏥 Hospital Management System</h3>
+<p>A secure, role-based hospital management platform with dashboards for Super Admin, Doctor, Receptionist, Nurse and Patient.</p>
+<sub>
+▸ Role-based access control with a permission matrix<br/>
+▸ Appointments, medical records, print-ready prescriptions, billing, reports and audit logs<br/>
+▸ CSRF protection, prepared statements, password hashing and per-role data isolation<br/>
+▸ Responsive UI with dark mode and Chart.js dashboards
+</sub>
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<a href="https://github.com/saqqqi/hospital-management-system-php"><img src="https://img.shields.io/badge/View_Repository-0d9488?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+</td>
+</tr>
+</table>
 
-### 🏥 Hospital Management System (HMS)
-
-A secure, role-based hospital management web application built with **PHP 8.1, MySQL (PDO), Tailwind CSS and Chart.js**.
-
-- Role-based access control with a permission matrix (Super Admin, Doctor, Nurse, Receptionist, Patient)
-- Appointments, medical records, prescriptions with a print-ready page, billing, reports and audit logs
-- Security first: CSRF protection, prepared statements, password hashing and data isolation per role
-- Responsive dashboards with dark mode
-
-[![View Project](https://img.shields.io/badge/View%20Repository-0d9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saqqqi/hospital-management-system-php)
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vermaid.app/api?username=saqqqi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vermaid.app/api/top-langs/?username=saqqqi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
-
+<img height="170" src="https://github-readme-stats.vermaid.app/api?username=saqqqi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vermaid.app/api/top-langs/?username=saqqqi&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages"/>
 <br/>
-
-<img src="https://streak-stats.demolab.com/?user=saqqqi&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-
+<img width="100%" src="https://streak-stats.demolab.com/?user=saqqqi&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saqqqi&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
 </div>
 
----
+<h2 align="center">🎯 Principles</h2>
 
-## 🎯 How I Work
+<table width="100%">
+<tr>
+<td align="center" width="25%">🧼<br/><b>Clean Code</b><br/><sub>Readable and maintainable</sub></td>
+<td align="center" width="25%">🔒<br/><b>Security First</b><br/><sub>Validated input, safe auth</sub></td>
+<td align="center" width="25%">🎨<br/><b>User Centered</b><br/><sub>Fast, responsive, accessible</sub></td>
+<td align="center" width="25%">🤝<br/><b>Teamwork</b><br/><sub>Clear communication</sub></td>
+</tr>
+</table>
 
-- **Clean code:** readable, maintainable and well documented
-- **Security first:** validated input, prepared statements, safe authentication
-- **User-centered:** interfaces that are fast, responsive and accessible
-- **Quality:** testing, code review and continuous improvement
-- **Teamwork:** clear communication and knowledge sharing
-
----
-
-## 🤝 Let's Work Together
-
-If you need help with a project or a related repository, or want to collaborate, I'd be glad to hear from you.
+<h2 align="center">📬 Let's Work Together</h2>
 
 <div align="center">
-
-[![Email Me](https://img.shields.io/badge/Email%20Me-Muhammad.saqlain0772@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammad.saqlain0772@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saqlain-4a9b7123a/)
-
+<p>Need help with a project or a related repository? Want to collaborate? I'd love to hear from you.</p>
+<a href="mailto:Muhammad.saqlain0772@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Muhammad.saqlain0772@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-saqlain-4a9b7123a/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:0f172a&height=100&section=footer" alt="footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:115e59,100:0f172a&height=110&section=footer" width="100%" alt="footer"/>
